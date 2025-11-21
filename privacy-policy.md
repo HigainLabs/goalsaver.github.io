@@ -1,6 +1,6 @@
 # Privacy Policy  
 **Last Updated:** November 20, 2025  
-**Developed by:** HiGain Labs Tech Pvt. Ltd.
+**Developed by:** Higain Labs Tech Pvt. Ltd.
 
 GoalSaver (“the App”) is a goal-tracking application created by **HiGain Labs Tech Pvt. Ltd.** (“we”, “our”, “us”).  
 This Privacy Policy explains how your data is handled when you use the App.
