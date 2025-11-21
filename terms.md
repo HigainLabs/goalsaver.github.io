@@ -1,110 +1,106 @@
-GoalSaver – Terms & Conditions
+# GoalSaver – Terms & Conditions  
+**Last Updated:** November 20, 2025  
+**Developed by:** HiGain Labs Tech Pvt. Ltd.
 
-Last updated: 11/20/2025
-Developed by: HiGain Labs Tech Pvt. Ltd.
+By downloading or using **GoalSaver** (“the App”), you agree to these Terms & Conditions.
 
-By downloading or using GoalSaver (“the App”), you agree to these Terms & Conditions.
+---
 
-1. Ownership
+## 1. Ownership
 
-GoalSaver is developed by HiGain Labs Tech Pvt. Ltd.
+GoalSaver is developed and owned by **HiGain Labs Tech Pvt. Ltd.**  
 All rights — including source code, design, branding, and assets — remain the exclusive property of HiGain Labs.
 
-Users may use the App, but may not:
+Users may use the App, but may **not**, without written permission:
 
-Copy
+- Copy  
+- Reproduce  
+- Modify  
+- Redistribute  
+- Resell  
+- Reverse engineer  
 
-Reproduce
+---
 
-Modify
+## 2. Description of Service
 
-Redistribute
+GoalSaver allows users to:
 
-Resell
+- Create and track goals  
+- Manage income and expenses  
+- View insights through charts  
 
-Reverse engineer
+The App is provided **for personal use only**.
 
-without written permission.
+---
 
-2. Description of Service
-
-GoalSaver helps users:
-
-Create and track goals
-
-Manage income and expenses
-
-View insights through charts
-
-The App is provided for personal use only.
-
-3. Disclaimer: Calculation Errors
+## 3. Disclaimer: Calculation Errors
 
 You acknowledge that:
 
-The App may contain calculation inaccuracies
+- The App may contain calculation inaccuracies  
+- Charts or insights may not always represent data accurately  
+- The App does **not** provide financial or professional advice  
+- You must independently verify any financial information  
 
-Charts or insights may not always correctly represent data
+**HiGain Labs is not liable** for losses caused by incorrect calculations, data interpretations, or decisions made using the App.
 
-The App does not provide financial or professional advice
+---
 
-You must verify any financial information independently
+## 4. User Responsibilities
 
-We are not liable for losses caused by incorrect data or interpretation.
+By using the App, you agree to:
 
-4. User Responsibilities
+- Use the App responsibly  
+- Verify all financial information before making decisions  
+- Not exploit, misuse, or damage the App  
+- Not attempt unauthorized access, tampering, or reverse engineering  
 
-You agree to:
+---
 
-Use the App responsibly
+## 5. Cost of Service
 
-Verify financial information before using it for decisions
+GoalSaver is currently **free** to use.
 
-Not exploit or misuse the App
+Future updates may introduce:
 
-Not attempt unauthorized access or reverse engineering
+- Optional paid features  
+- Additional premium services  
 
-5. Cost of Service
+All paid features will be clearly disclosed before purchase.
 
-GoalSaver is currently free.
+---
 
-Future updates may include:
+## 6. Limitation of Liability
 
-Optional paid features
-
-Additional services
-
-All paid features will be disclosed clearly before purchase.
-
-6. Limitation of Liability
-
-The App is provided “as is”, without warranties.
+The App is provided **“as is”**, without any warranties.  
 We are not responsible for:
 
-Inaccurate data
+- Inaccurate or incomplete data  
+- Calculation or display errors  
+- Financial decisions made using the App  
+- Loss of data stored on your device  
 
-Calculation errors
+---
 
-Financial decisions made using the App
+## 7. Acceptance of Terms
 
-Data loss on your device
+By downloading or using the App, you confirm that:
 
-7. Acceptance of Terms
+- You have read and accepted these Terms & Conditions  
+- You understand there may be occasional bugs or errors  
+- You are fully responsible for the data you enter and the results generated  
 
-By downloading or using the App, you agree that:
+---
 
-You have read and accepted these Terms & Conditions
+## 8. Changes to Terms & Conditions
 
-You understand there may be occasional errors
+These Terms & Conditions may be updated at any time.  
+Continued use of the App after updates means you accept the revised terms.
 
-You are fully responsible for the data you enter and the results displayed
+---
 
-8. Changes to Terms & Conditions
+## 9. Contact Us
 
-These Terms may be updated at any time.
-Continued use of the App after changes means you accept the updated terms.
-
-9. Contact Us
-
-HiGain Labs Tech Pvt. Ltd.
-Email: support@higainlab.com
+**HiGain Labs Tech Pvt. Ltd.**  
+**Email:** support@higainlab.com
