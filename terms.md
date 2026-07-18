@@ -1,14 +1,14 @@
-# GoalSaver – Terms & Conditions  
-**Last Updated:** November 20, 2025  
+# Goal Saver Up – Terms & Conditions  
+**Last Updated:** July 18, 2026  
 **Developed by:** HiGain Labs Tech Pvt. Ltd.
 
-By downloading or using **GoalSaver** (“the App”), you agree to these Terms & Conditions.
+By downloading or using **Goal Saver Up** (formerly GoalSaver, “the App”), you agree to these Terms & Conditions.
 
 ---
 
 ## 1. Ownership
 
-GoalSaver is developed and owned by **HiGain Labs Tech Pvt. Ltd.**  
+Goal Saver Up is developed and owned by **HiGain Labs Tech Pvt. Ltd.**  
 All rights — including source code, design, branding, and assets — remain the exclusive property of HiGain Labs.
 
 Users may use the App, but may **not**, without written permission:
@@ -24,11 +24,12 @@ Users may use the App, but may **not**, without written permission:
 
 ## 2. Description of Service
 
-GoalSaver allows users to:
+Goal Saver Up allows users to:
 
-- Create and track goals  
+- Create and track savings goals  
 - Manage income and expenses  
 - View insights through charts  
+- Receive optional local reminders about goal deadlines  
 
 The App is provided **for personal use only**.
 
@@ -58,16 +59,29 @@ By using the App, you agree to:
 
 ---
 
-## 5. Cost of Service
+## 5. Subscriptions and Purchases
 
-GoalSaver is currently **free** to use.
+The App offers a free tier and optional paid features (“Goal Saver Up Pro”).
 
-Future updates may introduce:
+**Free tier.** The core of the App is free to use, including creating up to a limited number of savings goals and tracking income and expenses.
 
-- Optional paid features  
-- Additional premium services  
+**Goal Saver Up Pro.** Pro unlocks additional features (such as unlimited goals and the Insights section) and is available as:
 
-All paid features will be clearly disclosed before purchase.
+- A **monthly** auto-renewable subscription  
+- A **yearly** auto-renewable subscription  
+- A **lifetime** one-time purchase (non-renewing)
+
+**Billing.** All prices are displayed in the App before purchase and may vary by region. Payment is charged to your Apple Account at confirmation of purchase.
+
+**Auto-renewal.** Subscriptions renew automatically unless cancelled at least 24 hours before the end of the current period. Your Apple Account is charged for renewal within 24 hours before the current period ends. You can manage or cancel subscriptions at any time in your Apple Account settings (App Store → your account → Subscriptions). Deleting the App does not cancel an active subscription.
+
+**Lifetime purchase.** The lifetime option is a one-time payment that unlocks Pro features permanently on devices signed in with the purchasing Apple Account. It is not a subscription and does not renew.
+
+**Refunds.** All purchases are processed by Apple. Refund requests are handled by Apple under Apple’s refund policies; we are unable to issue refunds directly.
+
+**Early supporters.** Users who installed the App before the introduction of Goal Saver Up Pro retain access to Pro features at no charge, as a thank-you for their early support. This courtesy is provided at our discretion.
+
+**Changes.** Features included in the free tier and in Pro, and their prices, may change in future updates. Any paid features will always be clearly disclosed before purchase.
 
 ---
 
